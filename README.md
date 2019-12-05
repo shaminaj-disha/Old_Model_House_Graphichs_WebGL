@@ -1,6 +1,6 @@
-# Old_Model_House_Graphichs_WebGL
+# Old_Style_House_Graphichs_WebGL
 
-Welcome to Old_Model_House_Graphichs_WebGL. It's a Graphics WebGL Project where the house model was created using Blender.
+Welcome to Old_Style_House_Graphichs_WebGL. It's a Graphics WebGL Project where the house model was created using Blender.
 
 Run the index.html file in web browser.
 
